@@ -1,0 +1,16 @@
+# Node modules (Gulp, npm packages)
+node_modules/
+
+# Gulp build output
+dist/
+build/
+
+# System/IDE files
+.DS_Store
+Thumbs.db
+*.log
+
+# WordPress specific
+wp-config.php
+wp-content/uploads/
+wp-content/upgrade/
