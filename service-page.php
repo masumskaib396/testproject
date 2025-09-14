@@ -85,6 +85,6 @@ if ( ! empty( $service_box_group ) ):
         </div>
     </div>
 </div>
-<!-- Content Section End -->
+<!-- Content Section End --->
 
 <?php get_footer(); // Include footer.php ?>
