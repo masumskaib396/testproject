@@ -71,7 +71,7 @@ if ( ! empty( $service_box_group ) ):
 <!-- Service Section End -->
 
 <!-- Content Section Start -->
-<div class="content-section section-padding">
+<div class="content-section section-padding hello">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 offset-lg-2">
