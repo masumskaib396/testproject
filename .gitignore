@@ -1,16 +1,21 @@
-# Node modules (Gulp, npm packages)
+# Node modules (npm / gulp packages)
 node_modules/
 
-# Gulp build output
+# Build output
 dist/
 build/
 
-# System/IDE files
+# Logs
+*.log
+
+# System files
 .DS_Store
 Thumbs.db
-*.log
+
+# VSCode/IDE settings
+.vscode/
+.idea/
 
 # WordPress specific
 wp-config.php
 wp-content/uploads/
-wp-content/upgrade/

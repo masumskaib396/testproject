@@ -6,7 +6,7 @@ Template Name: Service Page
 get_header(); // Include header.php
 ?>
 
-<!-- Service Section Start -->
+<!-- Service Section Start -- -->
 <?php
 $service_box_group = get_field('service_box_meta');
 
