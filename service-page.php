@@ -70,4 +70,21 @@ if ( ! empty( $service_box_group ) ):
 
 <!-- Service Section End -->
 
+<!-- Content Section Start -->
+<div class="content-section section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+                <?php
+                while ( have_posts() ) :
+                    the_post();
+                    the_content();
+                endwhile;
+                ?>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Content Section End -->
+
 <?php get_footer(); // Include footer.php ?>
