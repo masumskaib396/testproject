@@ -15,5 +15,9 @@ get_header(); // Include header.php
     endif;
 ?>
 
+<!-- Service Section End -- -->
 
+<div class="content-p">
+    
+</div>
 <?php get_footer(); // Include footer.php ?>
