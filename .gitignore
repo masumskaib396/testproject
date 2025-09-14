@@ -10,7 +10,7 @@ build/
 
 # System files
 .DS_Store
-Thumbs.db
+
 
 # VSCode/IDE settings
 .vscode/

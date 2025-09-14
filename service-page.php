@@ -70,4 +70,39 @@ if ( ! empty( $service_box_group ) ):
 
 <!-- Service Section End -->
 
+<!-- Testimonial Section Start -->
+<div class="testimonial-section section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7 offset-lg-3">
+                <div class="section-title">
+                    <h3>What Our Clients Say</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="single-testimonial-box">
+                    <p>"Great service and support! Highly recommend."</p>
+                    <h5>- John Doe</h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="single-testimonial-box">
+                    <p>"Professional and efficient. Will use again."</p>
+                    <h5>- Jane Smith</h5>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 mb-4">
+                <div class="single-testimonial-box">
+                    <p>"Exceeded my expectations in every way."</p>
+                    <h5>- Mike Johnson</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Testimonial Section End -->
+
 <?php get_footer(); // Include footer.php ?>
