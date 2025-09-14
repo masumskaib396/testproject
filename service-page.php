@@ -70,13 +70,9 @@ if ( ! empty( $service_box_group ) ):
 
 <!-- Service Section End -->
 
-<<<<<<< HEAD
-<!-- Testimonial Section Start -->
-<div class="testimonial-section section-padding">
-=======
+
 <!-- Content Section Start -->
 <div class="content-section section-padding hello">
->>>>>>> master
     <div class="container">
         <div class="row">
             <div class="col-lg-7 offset-lg-3">
