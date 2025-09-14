@@ -103,6 +103,10 @@ if ( ! empty( $service_box_group ) ):
         </div>
     </div>
 </div>
+<<<<<<< HEAD
 <!-- Testimonial Section End -->
+=======
+<!-- Content Section End --->
+>>>>>>> master
 
 <?php get_footer(); // Include footer.php ?>
